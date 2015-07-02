@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.wrap {
+    max-width: 100%;
+    min-width: 1000px;
+    height: 100%;
+    text-align: center;
+    font-family:fantasy;
+    font-size: 20px;
+    color: darksalmon;
+}
+
+
+.sidebar{
+    height: 500px;
+    border-width:medium;
+    border-style:dashed;
+    padding: 30px;
+    
+    
+}
+
+.nav ul li{
+    margin-top: 15px;
+}
+
+
+.content{
+   margin-left: 30px;
+    height: 500px;
+    border-width:medium;
+    border-style:dashed;
+ 
+    
+}
+.footer{
+    height: 100px;
+}
+
+.navigation ul li{
+    float: left;
+
+}
